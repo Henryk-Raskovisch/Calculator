@@ -4,7 +4,7 @@
 
 This project is a calculator:
 
- - addition, subtraction, multiplication, division, exponentiation or square root
+ - addition, subtraction, multiplication, division, raise to power or square root
 
 - Asks the user for the first number;
 
